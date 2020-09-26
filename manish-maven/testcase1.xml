@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "testcas1">
+<test name = "testcaseexecute">
+<classes>
+
+<class name = "mypack.Testcase1"/>
+
+
+</classes>
+</test>
+</suite>

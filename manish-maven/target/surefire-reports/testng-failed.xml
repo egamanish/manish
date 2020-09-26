@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [testcas1]">
+  <test name="testcaseexecute(failed)">
+    <classes>
+      <class name="mypack.Testcase2">
+        <methods>
+          <include name="tc6"/>
+        </methods>
+      </class> <!-- mypack.Testcase2 -->
+    </classes>
+  </test> <!-- testcaseexecute(failed) -->
+</suite> <!-- Failed suite [testcas1] -->

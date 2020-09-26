@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90611" started-at="2020-09-25T03:29:44Z" finished-at="2020-09-25T03:31:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90611" started-at="2020-09-25T03:29:44Z" finished-at="2020-09-25T03:31:15Z">
+      <class name="mypack.Testcase1">
+        <test-method status="PASS" signature="addemp()[pri:0, instance:mypack.Testcase1@184cf7cf]" name="addemp" duration-ms="52148" started-at="2020-09-25T08:59:44Z" finished-at="2020-09-25T09:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addemp -->
+        <test-method status="PASS" signature="mouseover()[pri:0, instance:mypack.Testcase1@184cf7cf]" name="mouseover" duration-ms="15154" started-at="2020-09-25T09:00:36Z" finished-at="2020-09-25T09:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseover -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:mypack.Testcase1@184cf7cf]" name="verifylogin" duration-ms="23286" started-at="2020-09-25T09:00:51Z" finished-at="2020-09-25T09:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+      </class> <!-- mypack.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
